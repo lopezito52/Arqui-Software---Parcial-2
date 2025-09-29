@@ -1,0 +1,9 @@
+{
+  "name": "products-service",
+  "version": "1.0.0",
+  "main": "products-service.js",
+  "scripts": {
+    "start": "node products-service.js"
+  },
+  "license": "MIT"
+}
