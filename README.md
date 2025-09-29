@@ -127,10 +127,11 @@ Permite escalar, actualizar y balancear carga de manera automática en producci�
 
 ---
 
-## Screenshots y Presentación
+## Presentación
 
-- **Capturas Postman** (opcional)
-- **Presentación** (opcional)
+- **Presentación**
+   [Ver presentación en Canva](https://www.canva.com/design/DAG0TTUvWKs/XB2USHTrOmSxV7KVn3_MOw/edit?utm_content=DAG0TTUvWKs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ---
 
